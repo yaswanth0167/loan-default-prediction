@@ -1,8 +1,4 @@
----
 
-# README 2 — Loan Default Prediction Model
-
-```markdown
 # Loan Default Prediction Model
 
 ## Overview
